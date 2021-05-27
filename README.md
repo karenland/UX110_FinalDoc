@@ -17,7 +17,7 @@ More information can be found [here](https://github.com/karenland/DH110-AssignOn
 
 
 ## UX storytelling 
-<img src = "https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" width = "200" /> <img src = "https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg" width = "200" />
+<img src = "https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" width = "350" /> <img src = "https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg" width = "350" />
 
 
 
