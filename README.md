@@ -22,7 +22,7 @@ More information can be found [here](https://github.com/karenland/DH110-AssignOn
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="user1" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg alt="user2" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg" alt="user2" style="width:100%">
   </div>
 
 </div>
