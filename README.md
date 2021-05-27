@@ -24,9 +24,20 @@ More information can be found [here](https://github.com/karenland/DH110-AssignOn
   <div class="column">
     <img src="https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg" alt="user2" style="width:30%">
   </div>
-
 </div>
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+ Clear floats after image containers
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
 
