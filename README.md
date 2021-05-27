@@ -1,30 +1,31 @@
-# possible
+# Trial
 
 
-1) Project title + Your name
 
 ## Introduction: 
-What is the project about? The motivation of the project and possible contribution.
-
-This project provides a new outlet for aging book readers to connect with others as well as delve deeper in their reading journeys.
-
+testing the titles/headings
 ## Design statement: 
+testing titles and headings
 
 
-
-##Competitor analysis:
+## Competitor analysis:
 For this project, I analyzed the Goodreads application, a social app and book archive app. It is the current most popular application for book readers with around 900 million users. The second app I analyzed is an ebook app for those with U.S. library card memberships named Libby. Both of their functions are quite different from each other (social vs a digital reading app) but I thought it was important to study them since combing the information gives insight into what features book-centered apps need or lack.
 
 More information can be found [here](https://github.com/karenland/DH110-AssignOne)
 
 
-##Competitor Analysis: Usability Testing
-##User research
 
 
-## UX storytelling [persona+scenario, assignment05]
+## UX storytelling 
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="user1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg alt="user2" style="width:100%">
+  </div>
 
-Summary and link to your assignment folder
+</div>
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
