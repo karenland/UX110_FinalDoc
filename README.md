@@ -17,10 +17,9 @@ More information can be found [here](https://github.com/karenland/DH110-AssignOn
 
 
 ## UX storytelling 
-<img src = "https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png"  /> <img src = "https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg"  />
+<img src = "https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" width = "100" /> <img src = "https://user-images.githubusercontent.com/82078120/116471296-5b128d00-a829-11eb-9922-c990e0011d4b.jpg" width = "100" />
 
 
-<img src = "screenshots/tool.png" width ="1000" /> <img src = "screenshots/world_flash.png" width ="1000" />
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
