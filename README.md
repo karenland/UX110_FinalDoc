@@ -22,7 +22,7 @@ I tried doing it side by side but images are too wide for that
 
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype 
 testing the link: 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/Assignment6-copy--iczP3SZILuFijqTcY6EG/CXGluMJjp" allowfullscreen></iframe>
 
