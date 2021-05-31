@@ -165,9 +165,18 @@ More info can be found <a href="https://github.com/karenland/DH110_Assignment4">
 </p>
     </div>
     
+      <div class="card">
+       <h2>Low-Fidelity prototype</h2>
+        
+      <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
+      <p>The purpose of creating low fidelity prototyping is to test the project’s flow and interactions; making shows that both are intuitive for the user. There is a lot of benefits in creating and testing low-fidelity prototypes such as it puts no pressure on the users since it is an “early” version of the product, less time to create, and ideas/screens can easily be changed/modified. To add,  testing my Low-Fidelity Prototypes allowed me to see early on in the design process what is intuitive for the user as they see my screens; thus, I was able to come up with new designs and prep them for my high-fidelity prototypes. For example, since it is a social-media based app for the elderly, my initial screens and features had the images/profile icons make up most of the screen to make sure that they are easily visible. </p>
+
+
+More info can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
+</p>
+    </div>
   
-  
-  
+ 
     
   </div>
   <div class="rightcolumn">
