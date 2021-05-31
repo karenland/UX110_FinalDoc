@@ -9,7 +9,8 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #EDC7B7;
+  background: #fafad2
+;
 }
 
 /* Header/Blog Title */
@@ -35,7 +36,8 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: #fafad2
+;
   padding-left: 20px;
 }
 
@@ -178,7 +180,7 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
   
   <p> Below is the first User Persona William:</p>
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
-    <.p>
+    <p>
 More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
     </div>
@@ -208,8 +210,10 @@ More info about my this round of prototyping can be found <a href="https://githu
 High-Fidelity prototyping is when you start creating the project as similar as possible to the actual product. With the information from the past tests, this round of prototypes incorporates all that the team has learned so far. Some benefits to this version of prototyping is that it serves as a good emsintratiors for the client, it allows the team to test specific components of the design, and useful information is distilled from user testing. To add, my High-Fidelity prototype differed greatly from my low-fidelity prototype; it was interesting to see just from how just one round of testing can greatly affect the design of the product. 
 </p>
 
-
-More info can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/assignment8--dYCfCRPpRIGkUAlJaR7r/CXGluMJjp" allowfullscreen></iframe>
+    
+<p>
+More info can be found <a href="https://github.com/karenland/DH110_Assign6">here!</a> 
 </p>
     </div>
   
