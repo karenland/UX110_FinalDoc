@@ -16,7 +16,7 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  background: white;
+  background: #F7F1F0;
 }
 
 .header h1 {
@@ -174,7 +174,11 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
   <li>An updated search function that filters results by if the search inquiry is a book, another user, author, a book list, or a book group</li>
   <li>The ability to change the language of the app</li>   
 </ol>
-
+</p>
+  
+  <p> Below is the first User Persona William:
+    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="HTML5 Icon" width="210" height="210">
+    
 More info can be found <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
     </div>
