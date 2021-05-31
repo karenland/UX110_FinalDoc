@@ -168,8 +168,26 @@ More info can be found <a href="https://github.com/karenland/DH110_Assignment4">
       <div class="card">
        <h2>Low-Fidelity prototype</h2>
         
+         <p>The purpose of creating low fidelity prototyping is to test the project’s flow and interactions; making shows that both are intuitive for the user. There is a lot of benefits in creating and testing low-fidelity prototypes such as it puts no pressure on the users since it is an “early” version of the product, less time to create, and ideas/screens can easily be changed/modified. To add,  testing my Low-Fidelity Prototypes allowed me to see early on in the design process what is intuitive for the user as they see my screens; thus, I was able to come up with new designs and prep them for my high-fidelity prototypes. For example, since it is a social-media based app for the elderly, my initial screens and features had the images/profile icons make up most of the screen to make sure that they are easily visible. </p>
+        
+      <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="wireframes1" width="210" height="210">
+         <img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="wireframes 2" width="210" height="210">
+     
+
+
+More info can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
+</p>
+    </div>
+  
+  
+  
+  div class="card">
+       <h2>High-Fidelity prototype</h2>
+        
       <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
-      <p>The purpose of creating low fidelity prototyping is to test the project’s flow and interactions; making shows that both are intuitive for the user. There is a lot of benefits in creating and testing low-fidelity prototypes such as it puts no pressure on the users since it is an “early” version of the product, less time to create, and ideas/screens can easily be changed/modified. To add,  testing my Low-Fidelity Prototypes allowed me to see early on in the design process what is intuitive for the user as they see my screens; thus, I was able to come up with new designs and prep them for my high-fidelity prototypes. For example, since it is a social-media based app for the elderly, my initial screens and features had the images/profile icons make up most of the screen to make sure that they are easily visible. </p>
+      <p>
+High-Fidelity prototyping is when you start creating the project as similar as possible to the actual product. With the information from the past tests, this round of prototypes incorporates all that the team has learned so far. Some benefits to this version of prototyping is that it serves as a good emsintratiors for the client, it allows the team to test specific components of the design, and useful information is distilled from user testing. To add, my High-Fidelity prototype differed greatly from my low-fidelity prototype; it was interesting to see just from how just one round of testing can greatly affect the design of the product. 
+</p>
 
 
 More info can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
@@ -181,9 +199,9 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign5">here
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h2>About Me</h2>
+      <h2>About Me!</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Hello! Hello! My name is Karen Landeros. I am a Applied Linguistics and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship is are the books we read!! </p>
+      <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
     </div>
     
 
