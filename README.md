@@ -102,15 +102,21 @@ body {
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
+      <h2>Introduction</h2>
+      <h5>basics and more </h5>
+    
       <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>Not only is reading a popular hobby among the elderly but United States citizens aged 65 years and older are actually the biggest age group that read as a hobby. As more elderly readers are transitioning into e-reading, they need mobile applications where not only can they organize their books but as well as accomplish other book related tasks such as writing reviews, joining book groups, and rating books. All of which help elevate their reading experience. However, there is no good application that keeps in mind the elderly and those who may need more accessibility-friendly design components. This project, named WordsDevoured, provides a new outlet for aging book readers to connect with others as well as delve deeper in their reading journeys by providing users an application with easy transitional steps and the ability to customize their app experience.</p>
     </div>
+    
+  
     <div class="card">
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <h2>Design Statement</h2>
+    
+      <p>An important fact to keep in mind about the United States is that the population is aging. By 2080, it is estimated that 25% of Americans from the United States will be over 60 years old.</p>
+
+      <p>Currently. Aging America has actually been struggling with literacy rates. They have limited prose and comprehension skills. While many users are the elderly, many elderly also lose/feel less confident about their reading ability. An app that not only entices avid book readers but also casual readers is very important to combat these issues since a user-friendly app that makes reading fun allows for the elderly not to only engage with others and bring a new level of enjoyment towards a valuable hobby, but it also helps the elderly better their genre literacy and technological literacy skills. So, for my project I hope I can give them an enjoyable app experience that can be paired with their reading journey.
+</p>
     </div>
     
       <div class="card">
