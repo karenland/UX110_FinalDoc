@@ -122,8 +122,19 @@ body {
     </div>
     
       <div class="card">
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+     <h2>Competitor Analysis - Usability Testing:</h2>
+   
+      <p>
+       Again, GoodReads is a popular app for avid book readers. It allows users to friend one another, write reviews, create book lists and even join book groups to discuss reads with fellow peers. 
+So for this project, the Usability Test will ask the user to perform some tasks on the GoodReads IOS application. From their interactions and comments, we are able to learn more about the site’s interface as well as to study its strengths/weaknesses. Generally, UT is an important step during the UI process because it enables the designers and researchers to efficiently study user behavior and opinions to create a better project early in stages of the project. The two tasks the user were asked to do was to: 
+ <ol>
+  <li>search for your favorite book, give it a start-rating, and then write a review about it.</li>
+  <li>Explore a book’s info/profile page</li>
+  <li>Create a bookshelf with at least three books</li>
+  <li>Revisit the user’s review to see if it has any comments </li>
+  <li>Reply to any comments then log out</li>      
+</ol>
+        </p>
     </div>
     
     
