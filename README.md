@@ -195,7 +195,7 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign5">here
   
   
   
-  div class="card">
+  <div class="card">
        <h2>High-Fidelity prototype</h2>
         
       <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
