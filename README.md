@@ -148,6 +148,26 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
 </p>
     </div>
     
+     <div class="card">
+       <h2>UX StoryTelling: </h2>
+        
+      <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
+      <p>UX storytelling is when researchers create and utilize personas, journey maps and other storytelling components in order to build empathy and as well get insight into users. Storytelling is also useful as a means to present ideas and gain new ones as you explore the word through the user’s eyes. To add, this process allows the whole team working on the project to be aware of the users’ needs. My design is basically a revamped GoodReads app formatted for the elderly. The personas I created are of two elderly users both with deep love and appreciation books but their goals are different. One reads to learn new things and the other reads to bond with her family as well as emerge herself into fictitious worlds.</p>
+
+       <p>Key features of design:</p>
+<p>Generally speaking, the apps I explored related to my project are all extremely limiting so the functions I have focusing on will simply give users more freedom.
+ <ol>
+  <li>An updated search function that filters results by if the search inquiry is a book, another user, author, a book list, or a book group</li>
+  <li>The ability to change the language of the app</li>   
+</ol>
+
+More info can be found <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
+</p>
+    </div>
+    
+  
+  
+  
     
   </div>
   <div class="rightcolumn">
