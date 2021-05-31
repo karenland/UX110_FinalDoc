@@ -177,7 +177,7 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
 </p>
   
   <p> Below is the first User Persona William:</p>
-    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="HTML5 Icon" width="210" height="210">
+    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
     <.p>
 More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
