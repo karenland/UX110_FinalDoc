@@ -119,6 +119,7 @@ body {
 
       <p>Currently. Aging America has actually been struggling with literacy rates. They have limited prose and comprehension skills. While many users are the elderly, many elderly also lose/feel less confident about their reading ability. An app that not only entices avid book readers but also casual readers is very important to combat these issues since a user-friendly app that makes reading fun allows for the elderly not to only engage with others and bring a new level of enjoyment towards a valuable hobby, but it also helps the elderly better their genre literacy and technological literacy skills. So, for my project I hope I can give them an enjoyable app experience that can be paired with their reading journey.
 </p>
+      
     </div>
     
       <div class="card">
@@ -134,6 +135,10 @@ So for this project, the Usability Test will ask the user to perform some tasks 
   <li>Revisit the user’s review to see if it has any comments </li>
   <li>Reply to any comments then log out</li>      
 </ol>
+        
+  <iframe src="https://drive.google.com/file/d/1fsU-k4uL2_A8_3fi7ztxDTjwCGkFrux2/preview" width="640" height="480"></iframe>  
+        
+       More info can be found about my Usability Testing procedures and results can be found <a href="https://github.com/karenland/DH-110_AssignTwo">here!</a> 
         </p>
     </div>
     
@@ -144,6 +149,8 @@ So for this project, the Usability Test will ask the user to perform some tasks 
       <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
       <p>To further study the user, specifically the context experience exists in, we used Contextual Inquiry. This qualitative data collection method allows us to observe people and ask for feedback as they are doing tasks. So for the book-reading experience, we get to learn about not simply the basic tasks one might do outside of applications but also their thoughts and emotions that go along with the reading journey. The results of this method allow us to better define the requirements and improvements that the book domain needs. For this project, the participant was asked how they generally search and look up books as well as how would they describe their reading experiences (eg. a solitary excursion or one shared with friends/peers).
  
+    <iframe src="https://drive.google.com/file/d/1A9Op-9gt_BX2Blk7CnnSQ0gAEM4ylzyR/preview" width="640" height="480"></iframe>
+        
 More info can be found <a href="https://github.com/karenland/DH110-Assign3">here!</a> 
 </p>
     </div>
