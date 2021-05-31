@@ -9,14 +9,14 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #f1f1f1;
+  background: #EDC7B7;
 }
 
 /* Header/Blog Title */
 .header {
   padding: 30px;
   text-align: center;
-  background: #F7F1F0;
+  background: #white;
 }
 
 .header h1 {
@@ -176,10 +176,10 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
 </ol>
 </p>
   
-  <p> Below is the first User Persona William:
+  <p> Below is the first User Persona William:</p>
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="HTML5 Icon" width="210" height="210">
-    
-More info can be found <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
+    <.p>
+More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
     </div>
     
@@ -188,12 +188,13 @@ More info can be found <a href="https://github.com/karenland/DH110_Assignment4">
         
          <p>The purpose of creating low fidelity prototyping is to test the project’s flow and interactions; making shows that both are intuitive for the user. There is a lot of benefits in creating and testing low-fidelity prototypes such as it puts no pressure on the users since it is an “early” version of the product, less time to create, and ideas/screens can easily be changed/modified. To add,  testing my Low-Fidelity Prototypes allowed me to see early on in the design process what is intuitive for the user as they see my screens; thus, I was able to come up with new designs and prep them for my high-fidelity prototypes. For example, since it is a social-media based app for the elderly, my initial screens and features had the images/profile icons make up most of the screen to make sure that they are easily visible. </p>
         
+        
       <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="wireframes1" width="360" height="360" class="center">
          <img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="wireframes 2" width="360" height="360" class="center">
      
 
 <p>
-More info can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
+More info about my this round of prototyping can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
 </p>
     </div>
   
