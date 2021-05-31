@@ -112,7 +112,7 @@ body {
       <h2>Introduction</h2>
       <h5>basics and more </h5>
     
-      <p>Some text..</p>
+ 
       <p>Not only is reading a popular hobby among the elderly but United States citizens aged 65 years and older are actually the biggest age group that read as a hobby. As more elderly readers are transitioning into e-reading, they need mobile applications where not only can they organize their books but as well as accomplish other book related tasks such as writing reviews, joining book groups, and rating books. All of which help elevate their reading experience. However, there is no good application that keeps in mind the elderly and those who may need more accessibility-friendly design components. This project, named WordsDevoured, provides a new outlet for aging book readers to connect with others as well as delve deeper in their reading journeys by providing users an application with easy transitional steps and the ability to customize their app experience.</p>
        <img src="https://user-images.githubusercontent.com/82078120/120145053-c9839b80-c197-11eb-9a1a-6f659656cf8e.png" alt="HTML5 Icon" width="220" height="220" class="center">
       
@@ -142,9 +142,9 @@ So for this project, the Usability Test will ask the user to perform some tasks 
   <li>Revisit the user’s review to see if it has any comments </li>
   <li>Reply to any comments then log out</li>      
 </ol>
-        
+        </p>
   <iframe src="https://drive.google.com/file/d/1fsU-k4uL2_A8_3fi7ztxDTjwCGkFrux2/preview" width="640" height="480"></iframe>  
-        
+      <p>  
        More info can be found about my Usability Testing procedures and results can be found <a href="https://github.com/karenland/DH-110_AssignTwo">here!</a> 
         </p>
     </div>
@@ -154,10 +154,10 @@ So for this project, the Usability Test will ask the user to perform some tasks 
        <h2>UX Research: Contextual inquiry </h2>
         
       <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
-      <p>To further study the user, specifically the context experience exists in, we used Contextual Inquiry. This qualitative data collection method allows us to observe people and ask for feedback as they are doing tasks. So for the book-reading experience, we get to learn about not simply the basic tasks one might do outside of applications but also their thoughts and emotions that go along with the reading journey. The results of this method allow us to better define the requirements and improvements that the book domain needs. For this project, the participant was asked how they generally search and look up books as well as how would they describe their reading experiences (eg. a solitary excursion or one shared with friends/peers).
+      <p>To further study the user, specifically the context experience exists in, we used Contextual Inquiry. This qualitative data collection method allows us to observe people and ask for feedback as they are doing tasks. So for the book-reading experience, we get to learn about not simply the basic tasks one might do outside of applications but also their thoughts and emotions that go along with the reading journey. The results of this method allow us to better define the requirements and improvements that the book domain needs. For this project, the participant was asked how they generally search and look up books as well as how would they describe their reading experiences (eg. a solitary excursion or one shared with friends/peers).</p>
  
     <iframe src="https://drive.google.com/file/d/1A9Op-9gt_BX2Blk7CnnSQ0gAEM4ylzyR/preview" width="640" height="480"></iframe>
-        
+   <p>     
 More info can be found <a href="https://github.com/karenland/DH110-Assign3">here!</a> 
 </p>
     </div>
