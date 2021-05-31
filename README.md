@@ -139,10 +139,13 @@ So for this project, the Usability Test will ask the user to perform some tasks 
     
     
       <div class="card">
-      <p>Some text..</p>
-      
+       <h2>UX Research: Contextual inquiry </h2>
+        
       <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p>To further study the user, specifically the context experience exists in, we used Contextual Inquiry. This qualitative data collection method allows us to observe people and ask for feedback as they are doing tasks. So for the book-reading experience, we get to learn about not simply the basic tasks one might do outside of applications but also their thoughts and emotions that go along with the reading journey. The results of this method allow us to better define the requirements and improvements that the book domain needs. For this project, the participant was asked how they generally search and look up books as well as how would they describe their reading experiences (eg. a solitary excursion or one shared with friends/peers).
+ 
+More info can be found <a href="https://github.com/karenland/DH110-Assign3">here!</a> 
+</p>
     </div>
     
     
