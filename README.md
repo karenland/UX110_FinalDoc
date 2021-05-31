@@ -9,7 +9,7 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: #fafad2
+  background: #F7F1F0
 ;
 }
 
@@ -17,7 +17,7 @@ body {
 .header {
   padding: 30px;
   text-align: center;
-  background: #white;
+  background: #FFFFFF;
 }
 
 .header h1 {
@@ -36,7 +36,7 @@ body {
 .rightcolumn {
   float: left;
   width: 25%;
-  background-color: #fafad2
+  background-color: #F7F1F0
 ;
   padding-left: 20px;
 }
@@ -155,7 +155,6 @@ So for this project, the Usability Test will ask the user to perform some tasks 
       <div class="card">
        <h2>UX Research: Contextual inquiry </h2>
         
-      <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
       <p>To further study the user, specifically the context experience exists in, we used Contextual Inquiry. This qualitative data collection method allows us to observe people and ask for feedback as they are doing tasks. So for the book-reading experience, we get to learn about not simply the basic tasks one might do outside of applications but also their thoughts and emotions that go along with the reading journey. The results of this method allow us to better define the requirements and improvements that the book domain needs. For this project, the participant was asked how they generally search and look up books as well as how would they describe their reading experiences (eg. a solitary excursion or one shared with friends/peers).</p>
  
     <iframe src="https://drive.google.com/file/d/1A9Op-9gt_BX2Blk7CnnSQ0gAEM4ylzyR/preview" width="640" height="480"></iframe>
@@ -180,6 +179,7 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
   
   <p> Below is the first User Persona William:</p>
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
+   <img src=" https://user-images.githubusercontent.com/82078120/116472545-dfb1db00-a82a-11eb-8eea-fa4373b7e40a.jpg" alt="Persona1Steps">
     <p>
 More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
@@ -218,6 +218,25 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     </div>
   
  
+   <div class="card">
+       <h2>Low-Fidelity prototype</h2>
+        
+         <p>The purpose of creating low fidelity prototyping is to test the project’s flow and interactions; making shows that both are intuitive for the user. There is a lot of benefits in creating and testing low-fidelity prototypes such as it puts no pressure on the users since it is an “early” version of the product, less time to create, and ideas/screens can easily be changed/modified. To add,  testing my Low-Fidelity Prototypes allowed me to see early on in the design process what is intuitive for the user as they see my screens; thus, I was able to come up with new designs and prep them for my high-fidelity prototypes. For example, since it is a social-media based app for the elderly, my initial screens and features had the images/profile icons make up most of the screen to make sure that they are easily visible. </p>
+        
+        
+      <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="wireframes1" width="360" height="360" class="center">
+         <img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="wireframes 2" width="360" height="360" class="center">
+     
+
+<p>
+More info about my this round of prototyping can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
+</p>
+    </div>
+  
+  
+  
+  
+  
     
   </div>
   <div class="rightcolumn">
