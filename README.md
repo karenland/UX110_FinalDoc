@@ -114,7 +114,7 @@ body {
     
       <p>Some text..</p>
       <p>Not only is reading a popular hobby among the elderly but United States citizens aged 65 years and older are actually the biggest age group that read as a hobby. As more elderly readers are transitioning into e-reading, they need mobile applications where not only can they organize their books but as well as accomplish other book related tasks such as writing reviews, joining book groups, and rating books. All of which help elevate their reading experience. However, there is no good application that keeps in mind the elderly and those who may need more accessibility-friendly design components. This project, named WordsDevoured, provides a new outlet for aging book readers to connect with others as well as delve deeper in their reading journeys by providing users an application with easy transitional steps and the ability to customize their app experience.</p>
-       <img src="https://user-images.githubusercontent.com/82078120/120145053-c9839b80-c197-11eb-9a1a-6f659656cf8e.png" alt="HTML5 Icon" width="210" height="210">
+       <img src="https://user-images.githubusercontent.com/82078120/120145053-c9839b80-c197-11eb-9a1a-6f659656cf8e.png" alt="HTML5 Icon" width="220" height="220" class="center">
       
     </div>
     
