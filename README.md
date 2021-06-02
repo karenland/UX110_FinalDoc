@@ -228,6 +228,28 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     </div>
  
     
+     <div class="card">
+    <h2>Evaluation</h2>
+      
+<b>Impression Test: </b>
+<p> An Impression Test is when the researcher presents a quick glimpse of the project’s prototype. When I was researching how to do it, I decided to go about it in 2 ways: a 15 second impression test and a minute-long impression test. <b> The Results </b> for the Impression Test showed that the user did not have any strong reactions toward my prototype- so I interpreted that as being a good result since it shows my screens and such can pass as a “real” application. </p>
+
+
+<b>Cognitive Walk-Through:</b>
+<p>For the Cognitive Walk-Through, we did that in class. For this method of testing, the team has to think like one of the personas created for the project and go through the tasks of the app. I chose Maria as the persona to focus on. The results were similar to that of the Impression Test. Some  the ideas, criticisms, and sentiments shared are below:</p>
+<ul>
+ <li> interface itself is good. Looks liek a real app</li>
+ <li> fix some of the spacing </li>
+<li> fix some of the typos</li>
+</ul>
+<p> Overall, they said that my tasks and the steps to complete them make sense. </p>
+
+    </div>
+    
+    
+    
+    
+    
   </div>
   <div class="rightcolumn">
     <div class="card">
