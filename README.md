@@ -255,7 +255,7 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     <div class="card">
       <h2>About Me!</h2>
 
-      <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="wireframes1" width="100%" padding: "20px" height="100px" class="center">
+      <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="favs1">
       <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
     </div>
     
