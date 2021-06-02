@@ -234,8 +234,6 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 </p>
     </div>
  
-  
-  
     
   </div>
   <div class="rightcolumn">
