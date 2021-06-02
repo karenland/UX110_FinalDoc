@@ -126,10 +126,26 @@ body {
     
       <p>An important fact to keep in mind about the United States is that the population is aging. By 2080, it is estimated that 25% of Americans from the United States will be over 60 years old.</p>
 
-      <p>Currently. Aging America has actually been struggling with literacy rates. They have limited prose and comprehension skills. While many users are the elderly, many elderly also lose/feel less confident about their reading ability. An app that not only entices avid book readers but also casual readers is very important to combat these issues since a user-friendly app that makes reading fun allows for the elderly not to only engage with others and bring a new level of enjoyment towards a valuable hobby, but it also helps the elderly better their genre literacy and technological literacy skills. So, for my project I hope I can give them an enjoyable app experience that can be paired with their reading journey.
+      <p>Currently, Aging America has actually been struggling with literacy rates. They have limited prose and comprehension skills. While many users are the elderly, many elderly also lose/feel less confident about their reading ability. An app that not only entices avid book readers but also casual readers is very important to combat these issues since a user-friendly app that makes reading fun allows for the elderly not to only engage with others and bring a new level of enjoyment towards a valuable hobby, but it also helps the elderly better their genre literacy and technological literacy skills. So, for my project I hope I can give them an enjoyable app experience that can be paired with their reading journey.
 </p>
       
     </div>
+    
+     <div class="card">
+       <h2>Competitor Analysis: Heuristics  </h2>
+        
+    <p>For this project, we first looked at different competitors and evaluated them using Nielson’s 10 Heuristic evaluation. Again, my goal is to create a social media app for book readers. So I looked at GoodReads and Libby. Both of these applications have different goals and purposes. GoodReads, while a book-related application app for readers, is an archive and social media app. Its goal is “to help people find and share books they love.” While Libby is an e-reading application. And by working with thousands of libraries and schools, they hope their application can lead to “ a world enlightened by reading.” They both have similar features such as readers can create book lists and have customizable search features. However, they do share some heuristic violations that causes the app experience for both to feel limiting and a bit confusing . So during this heuristic process I analyzed some of the apps’ features that could be improved and implemented. </p>
+<ul>
+  <li> Recognition rather than recall/User Control and Freedom: Again, for both applications, there is a customizable search feature but it is limiting. Typos stump the search feature. You also cannot search by genre, character, or publication year. So if a user cannot remember the title of the title, they cannot find the book. A more flexible search feature would be suitable for these apps but especially for GoodReads since this app has a lot of searchable items such as book lists, authors, and book groups.</li>
+  <li>Aesthetic and minimalist design: Libby’s app is very consistent and it makes it obvious that the app is an ereader. For example, for the previous searches, they are all italicized because in writing, book titles are usually italicized. While for BookReads there are a lot of inconsistencies in the design, there are blue links when the app itself is based on a warm-brown color palette. Also the buttons are different colors: some are green while others are a dark turquoise</li>
+</ul>
+<p>More information about these evaluations can be found <https://github.com/karenland/DH110-AssignOne">here!</a> </p>
+   <p>     
+</p>
+    </div>
+    
+    
+    
     
       <div class="card">
      <h2>Competitor Analysis - Usability Testing:</h2>
@@ -203,9 +219,7 @@ More info about my this round of prototyping can be found <a href="https://githu
   
   
   <div class="card">
-       <h2>High-Fidelity prototype</h2>
-        
-      <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/2/1280/720/75/dam/disneyland/home/destination/sleeping-beauty-castle-tint-16x9.jpg" alt="HTML5 Icon" width="210" height="210">
+    <h2>High-Fidelity prototype</h2>
       <p>
 High-Fidelity prototyping is when you start creating the project as similar as possible to the actual product. With the information from the past tests, this round of prototypes incorporates all that the team has learned so far. Some benefits to this version of prototyping is that it serves as a good emsintratiors for the client, it allows the team to test specific components of the design, and useful information is distilled from user testing. To add, my High-Fidelity prototype differed greatly from my low-fidelity prototype; it was interesting to see just from how just one round of testing can greatly affect the design of the product. 
 </p>
