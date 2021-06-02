@@ -139,8 +139,9 @@ body {
   <li> <b>Recognition rather than recall/User Control and Freedom:</b> Again, for both applications, there is a customizable search feature but it is limiting. Typos stump the search feature. You also cannot search by genre, character, or publication year. So if a user cannot remember the title of the title, they cannot find the book. A more flexible search feature would be suitable for these apps but especially for GoodReads since this app has a lot of searchable items such as book lists, authors, and book groups.</li>
   <li><b>Aesthetic and minimalist design:</b> Libby’s app is very consistent and it makes it obvious that the app is an ereader. For example, for the previous searches, they are all italicized because in writing, book titles are usually italicized. While for BookReads there are a lot of inconsistencies in the design, there are blue links when the app itself is based on a warm-brown color palette. Also the buttons are different colors: some are green while others are a dark turquoise</li>
 </ul>
-<p>More information about these evaluations can be found <https://github.com/karenland/DH110-AssignOne">here!</a> </p>
-   <p>     
+<p>
+  More information about these evaluations can be found <a href="https://github.com/karenland/DH110-AssignOne">here!</a> 
+   </p>     
 </p>
     </div>
     
@@ -227,11 +228,7 @@ High-Fidelity prototyping is when you start creating the project as similar as p
 More info can be found <a href="https://github.com/karenland/DH110_Assign6">here!</a> 
 </p>
     </div>
-  
  
-  
-  
-  
   
   
     
