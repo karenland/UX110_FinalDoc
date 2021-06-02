@@ -41,12 +41,6 @@ body {
   padding-left: 20px;
 }
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
 
 /* Add a card effect for articles */
 .card {
@@ -213,7 +207,6 @@ More info about my personas <a href="https://github.com/karenland/DH110_Assignme
       <img src="https://user-images.githubusercontent.com/82078120/117216097-1b611d80-adb4-11eb-8310-0d20167996a9.jpg" alt="wireframes1" width="360" height="360" class="center">
          <img src="https://user-images.githubusercontent.com/82078120/117216106-1c924a80-adb4-11eb-8266-9cad1b171f04.jpg" alt="wireframes 2" width="360" height="360" class="center">
      
-
 <p>
 More info about my this round of prototyping can be found <a href="https://github.com/karenland/DH110_Assign5">here!</a> 
 </p>
@@ -239,7 +232,8 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me!</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
+
+      <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="wireframes1" width="100%" padding: "20px" height="100px" class="center">
       <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
     </div>
     
