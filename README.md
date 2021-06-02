@@ -136,16 +136,13 @@ body {
         
     <p>For this project, we first looked at different competitors and evaluated them using Nielson’s 10 Heuristic evaluation. Again, my goal is to create a social media app for book readers. So I looked at GoodReads and Libby. Both of these applications have different goals and purposes. GoodReads, while a book-related application app for readers, is an archive and social media app. Its goal is “to help people find and share books they love.” While Libby is an e-reading application. And by working with thousands of libraries and schools, they hope their application can lead to “ a world enlightened by reading.” They both have similar features such as readers can create book lists and have customizable search features. However, they do share some heuristic violations that causes the app experience for both to feel limiting and a bit confusing . So during this heuristic process I analyzed some of the apps’ features that could be improved and implemented. </p>
 <ul>
-  <li> Recognition rather than recall/User Control and Freedom: Again, for both applications, there is a customizable search feature but it is limiting. Typos stump the search feature. You also cannot search by genre, character, or publication year. So if a user cannot remember the title of the title, they cannot find the book. A more flexible search feature would be suitable for these apps but especially for GoodReads since this app has a lot of searchable items such as book lists, authors, and book groups.</li>
-  <li>Aesthetic and minimalist design: Libby’s app is very consistent and it makes it obvious that the app is an ereader. For example, for the previous searches, they are all italicized because in writing, book titles are usually italicized. While for BookReads there are a lot of inconsistencies in the design, there are blue links when the app itself is based on a warm-brown color palette. Also the buttons are different colors: some are green while others are a dark turquoise</li>
+  <li> <b>Recognition rather than recall/User Control and Freedom:</b> Again, for both applications, there is a customizable search feature but it is limiting. Typos stump the search feature. You also cannot search by genre, character, or publication year. So if a user cannot remember the title of the title, they cannot find the book. A more flexible search feature would be suitable for these apps but especially for GoodReads since this app has a lot of searchable items such as book lists, authors, and book groups.</li>
+  <li><b>Aesthetic and minimalist design:</b> Libby’s app is very consistent and it makes it obvious that the app is an ereader. For example, for the previous searches, they are all italicized because in writing, book titles are usually italicized. While for BookReads there are a lot of inconsistencies in the design, there are blue links when the app itself is based on a warm-brown color palette. Also the buttons are different colors: some are green while others are a dark turquoise</li>
 </ul>
 <p>More information about these evaluations can be found <https://github.com/karenland/DH110-AssignOne">here!</a> </p>
    <p>     
 </p>
     </div>
-    
-    
-    
     
       <div class="card">
      <h2>Competitor Analysis - Usability Testing:</h2>
