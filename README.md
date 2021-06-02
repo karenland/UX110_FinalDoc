@@ -224,7 +224,7 @@ More info about my this round of prototyping can be found <a href="https://githu
   <div class="card">
     <h2>High-Fidelity prototype</h2>
       <p>
-High-Fidelity prototyping is when you start creating the project as similar as possible to the actual product. With the information from the past tests, this round of prototypes incorporates all that the team has learned so far. Some benefits to this version of prototyping is that it serves as a good emsintratiors for the client, it allows the team to test specific components of the design, and useful information is distilled from user testing. To add, my High-Fidelity prototype differed greatly from my low-fidelity prototype; it was interesting to see just from how just one round of testing can greatly affect the design of the product. 
+High-Fidelity prototyping is when you start creating the project as similar as possible to the actual product. With the information from the past tests, this round of prototypes incorporates all that the team has learned so far. Some benefits to this version of prototyping is that it serves as a good deminstrations for the client, it allows the team to test specific components of the design, and useful information can be distilled from user testing. To bring up another interesting part of this process, my High-Fidelity prototype differed greatly from my low-fidelity prototype; it was interesting to see just from how just one round of testing can greatly affect the design of the product. 
 </p>
 
     <iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/assignment8--dYCfCRPpRIGkUAlJaR7r/CXGluMJjp" allowfullscreen></iframe>
