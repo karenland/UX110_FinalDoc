@@ -300,8 +300,9 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+     
+      <p>My name is Karen. And I major in Linguistics with minors in Asian Languages and Cognitive Science. I have always been fascinated by the relationship between language and culture. And the best example of that relationship are the books we read. Below are my personal favorite reads!</p>
+       <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="wireframes1" >
     </div>
 
 
