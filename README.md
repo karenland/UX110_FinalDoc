@@ -189,7 +189,7 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
    <img src=" https://user-images.githubusercontent.com/82078120/116472545-dfb1db00-a82a-11eb-8eea-fa4373b7e40a.jpg" alt="Persona1Steps" width="450" height="520">
     </p>
-More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
+<p>More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
     </div>
     
@@ -262,6 +262,10 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 </ul>
 <p> Overall, they said that my tasks and the steps to complete them make sense. </p>
     </div>
+    
+    
+    
+    
     
      <div class="card">
     <h2>Conclusions</h2>
