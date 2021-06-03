@@ -186,7 +186,7 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
 </p>
   
   <p> Below is the first User Persona William:</p>
-    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1" width="450" height="520">
+    <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
    <img src=" https://user-images.githubusercontent.com/82078120/116472545-dfb1db00-a82a-11eb-8eea-fa4373b7e40a.jpg" alt="Persona1Steps" width="450" height="520">
     </p>
 More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
@@ -231,10 +231,10 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
      <div class="card">
     <h2>Evaluation</h2>
       
-<b>Impression Test: </b>
+<p><b>Impression Test: </b></p>
 <p> An Impression Test is when the researcher presents a quick glimpse of the project’s prototype. When I was researching how to do it, I decided to go about it in 2 ways: a 15 second impression test and a minute-long impression test. <b> The Results </b> for the Impression Test showed that the user did not have any strong reactions toward my prototype- so I interpreted that as being a good result since it shows my screens and such can pass as a “real” application. </p>
 
-<b>Cognitive Walk-Through:</b>
+<p><b>Cognitive Walk-Through:</b></p>
 <p>For the Cognitive Walk-Through, we did that in class. For this method of testing, the team has to think like one of the personas created for the project and go through the tasks of the app. I chose Maria as the persona to focus on. The results were similar to that of the Impression Test. Some  the ideas, criticisms, and sentiments shared are below:</p>
 <ul>
  <li> interface itself is good. Looks liek a real app</li>
@@ -277,7 +277,7 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 
  
   
-  
+
   
     
     
