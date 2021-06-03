@@ -234,7 +234,6 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 <b>Impression Test: </b>
 <p> An Impression Test is when the researcher presents a quick glimpse of the project’s prototype. When I was researching how to do it, I decided to go about it in 2 ways: a 15 second impression test and a minute-long impression test. <b> The Results </b> for the Impression Test showed that the user did not have any strong reactions toward my prototype- so I interpreted that as being a good result since it shows my screens and such can pass as a “real” application. </p>
 
-
 <b>Cognitive Walk-Through:</b>
 <p>For the Cognitive Walk-Through, we did that in class. For this method of testing, the team has to think like one of the personas created for the project and go through the tasks of the app. I chose Maria as the persona to focus on. The results were similar to that of the Impression Test. Some  the ideas, criticisms, and sentiments shared are below:</p>
 <ul>
@@ -251,9 +250,8 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     <h2>Revisions</h2>
       <p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
 
- <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360" class="center">
-         <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" class="center">
-
+ <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360">
+         <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" >
 
 <p><b>General Updates: </b></p>
 <ul>
@@ -263,7 +261,6 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
   <li> there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
 </ul>
 <p> Overall, they said that my tasks and the steps to complete them make sense. </p>
-
     </div>
     
      <div class="card">
@@ -277,17 +274,8 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     
         
     
-    
-  </div>
-  <div class="rightcolumn">
-    <div class="card">
-      <h2>About Me!</h2>
 
-      <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="favs1">
-      <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
-    </div>
-  
-  
+ 
   
   
   
