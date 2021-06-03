@@ -187,8 +187,8 @@ More info can be found <a href="https://github.com/karenland/DH110-Assign3">here
   
   <p> Below is the first User Persona William:</p>
     <img src="https://user-images.githubusercontent.com/82078120/116471280-56e66f80-a829-11eb-8e64-7331db7967bc.png" alt="Persona1">
-   <img src=" https://user-images.githubusercontent.com/82078120/116472545-dfb1db00-a82a-11eb-8eea-fa4373b7e40a.jpg" alt="Persona1Steps" width="450" height="520">
-    </p>
+   <img src=" https://user-images.githubusercontent.com/82078120/116472545-dfb1db00-a82a-11eb-8eea-fa4373b7e40a.jpg" alt="Persona1Steps" >
+    
 <p>More info about my personas <a href="https://github.com/karenland/DH110_Assignment4">here!</a> 
 </p>
     </div>
@@ -245,6 +245,21 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 
     </div>
     
+     <div class="card">
+    <h2>Revisions</h2>
+      <p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
+
+ <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360">
+         <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" >
+
+    </div>
+
+  
+  
+  
+  
+  
+  
   
   
 </body>
