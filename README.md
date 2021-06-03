@@ -252,7 +252,9 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 
  <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360">
          <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" >
-    <p><b>General Updates: </b></p>
+    </div>
+       <div class="card">
+  <h2>General Updates </h2>
 <p><ul>
  <li> bottom taskbar is not only icons but now they are coupled with text/li>
  <li> clicking a book cover from an update, enlarges the cover  </li>
@@ -261,7 +263,7 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
        </ul></p>
 <p> Overall, they said that my tasks and the steps to complete them make sense. </p>
     
-        </div>
+      </div> 
     
     
      <div class="card">
@@ -281,9 +283,6 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
   
   
   
-  
-  
-</body>
-</html>
+
 
 
