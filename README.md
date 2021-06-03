@@ -263,17 +263,9 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     
      <div class="card">
     <h2>Conclusions</h2>
-      </p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
-<b>General Updates: </b>
-<ul>
- <li> bottom taskbar is not only icons but now they are coupled with text/li>
- <li> clicking a book cover from an update, enlarges the cover  </li>
-<li> can view reviews by clicking on image // book covers are labeled if they have reviews</li>
-  <li> there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
-  <li> star ratings were included </li>
-  <li> eliminated most of the buttons </li>
-</ul>
-<p> Overall, they said that my tasks and the steps to complete them make sense. </p>
+      <p> his project held a lot of firsts for me. I learned about heuristics, different prototyping tools, and simply new ways to visualize the user and their needs (e.g. usability testings). All the steps of the project process made sense. Overall, I think that while this app is geared towards the elderly, I was able to make it a fun and interactive project. Since reading is a fun hobby, it should not be a hassle to enhance the reading experience.
+Initially, I wanted my app to be similar to Apple Music’s UI. My big focus for this project was to create a customizable search function since other apps are so limiting and unforgiving. I was inspired by a lot of different search functions like from Discord and Twitter. Where there is an option n utilize advanced features but it is not required nor explicitly taught (for the latter application). But then after doing all the tests and personas, I decided to change it from the search function being flexible to the results page. Since the audience for this project are the elderly, I think it was a good idea to make the switch so that they can easily search by books, groups, lists, and more. Overall, I think my application would be a wonderful companion for readers of any demographics since I made sure there are the tasks, the steps to do those tasks, and the overall design are easy and simple for the user.
+ </p>
 
     </div>
     
