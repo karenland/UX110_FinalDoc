@@ -249,8 +249,13 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
      
      <div class="card">
     <h2>Revisions</h2>
-      </p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
-<b>General Updates: </b>
+      <p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
+
+ <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360" class="center">
+         <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" class="center">
+
+
+<p><b>General Updates: </b></p>
 <ul>
  <li> bottom taskbar is not only icons but now they are coupled with text/li>
  <li> clicking a book cover from an update, enlarges the cover  </li>
