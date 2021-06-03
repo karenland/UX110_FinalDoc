@@ -265,21 +265,22 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     </div>
       
   
-  
-  <div class="card">
+
+    
+    
+   <div class="card">
   <h2>General Updates </h2>
-<p><ul>
- <li> bottom taskbar is not only icons but now they are coupled with text/li>
- <li> clicking a book cover from an update, enlarges the cover  </li>
-<li> can view reviews by clicking on image // book covers are labeled if they have reviews</li>
-  <li> there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
-       </ul></p>
-<p> Overall, they said that my tasks and the steps to complete them make sense. </p>
+  <p>
     
-      </div> 
+    - bottom taskbar is not only icons but now they are coupled with text
+    - clicking a book cover from an update, enlarges the cover 
+    - there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading
+    - can view reviews by clicking on image // book covers are labeled if they have reviews
     
     
+  </p>
   
+   </div> 
 
 
 
