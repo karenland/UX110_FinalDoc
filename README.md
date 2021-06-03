@@ -246,6 +246,34 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
 
     </div>
     
+     
+     <div class="card">
+    <h2>Revisions</h2>
+      </p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
+<b>General Updates: </b>
+<ul>
+ <li> bottom taskbar is not only icons but now they are coupled with text/li>
+ <li> clicking a book cover from an update, enlarges the cover  </li>
+<li> can view reviews by clicking on image // book covers are labeled if they have reviews</li>
+  <li> there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
+</ul>
+<p> Overall, they said that my tasks and the steps to complete them make sense. </p>
+
+    </div>
+    
+     <div class="card">
+    <h2>Conclusions</h2>
+      </p> I did a fair amount of revisions for this prototype. The most notable one is the home screen. Instead of showing a simple sliding list of popular books categorized by genre, it now has the newsfeed! Belower are two gifs showcasing the update. The first gif is a the inital homescreen. The second gif is a the updated homescreen.</p>
+<b>General Updates: </b>
+<ul>
+ <li> bottom taskbar is not only icons but now they are coupled with text/li>
+ <li> clicking a book cover from an update, enlarges the cover  </li>
+<li> can view reviews by clicking on image // book covers are labeled if they have reviews</li>
+  <li> there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
+</ul>
+<p> Overall, they said that my tasks and the steps to complete them make sense. </p>
+
+    </div>
     
     
     
