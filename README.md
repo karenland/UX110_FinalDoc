@@ -289,5 +289,13 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
       <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
     </div>
     
+    
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
 
 
