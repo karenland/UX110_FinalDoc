@@ -301,4 +301,8 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
+  
+</body>
+</html>
+
 
