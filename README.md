@@ -263,7 +263,10 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
  <img src="https://user-images.githubusercontent.com/82078120/120561812-1941ad00-c3ba-11eb-91b0-176995befc9a.gif" alt="wireframes1" width="360" height="360">
          <img src="https://user-images.githubusercontent.com/82078120/120562497-607c6d80-c3bb-11eb-81e8-593d0f0d172e.gif" alt="wireframes 2" width="360" height="360" >
     </div>
-       <div class="card">
+      
+  
+  
+  <div class="card">
   <h2>General Updates </h2>
 <p><ul>
  <li> bottom taskbar is not only icons but now they are coupled with text/li>
@@ -280,8 +283,6 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     <h2>Conclusions</h2>
       <p> This project held a lot of firsts for me. I learned about heuristics, different prototyping tools, and simply new ways to visualize the user and their needs (e.g. usability testings). All the steps of the project process made sense. Overall, I think that while this app is geared towards the elderly, I was able to make it a fun and interactive project. Since reading is a fun hobby, it should not be a hassle to enhance the reading experience.</p>
 <p> Initially, I wanted my app to be similar to Apple Music’s UI. My big focus for this project was to create a customizable search function since other apps are so limiting and unforgiving. I was inspired by a lot of different search functions like from Discord and Twitter. Where there is an option n utilize advanced features but it is not required nor explicitly taught (for the latter application). But then after doing all the tests and personas, I decided to change it from the search function being flexible to the results page. Since the audience for this project are the elderly, I think it was a good idea to make the switch so that they can easily search by books, groups, lists, and more. Overall, I think my application would be a wonderful companion for readers of any demographics since I made sure there are the tasks, the steps to do those tasks, and the overall design are easy and simple for the user.</p>
-
- </p>
 
     </div>
 
