@@ -106,7 +106,7 @@ body {
   <div class="leftcolumn">
     <div class="card">
       <h2>Introduction</h2>
-      <h5>basics and more </h5>
+     
     
  
       <p>Not only is reading a popular hobby among the elderly but United States citizens aged 65 years and older are actually the biggest age group that read as a hobby. As more elderly readers are transitioning into e-reading, they need mobile applications where not only can they organize their books but as well as accomplish other book related tasks such as writing reviews, joining book groups, and rating books. All of which help elevate their reading experience. However, there is no good application that keeps in mind the elderly and those who may need more accessibility-friendly design components. This project, named WordsDevoured, provides a new outlet for aging book readers to connect with others as well as delve deeper in their reading journeys by providing users an application with easy transitional steps and the ability to customize their app experience.</p>
@@ -268,8 +268,9 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
     
      <div class="card">
     <h2>Conclusions</h2>
-      <p> his project held a lot of firsts for me. I learned about heuristics, different prototyping tools, and simply new ways to visualize the user and their needs (e.g. usability testings). All the steps of the project process made sense. Overall, I think that while this app is geared towards the elderly, I was able to make it a fun and interactive project. Since reading is a fun hobby, it should not be a hassle to enhance the reading experience.
-Initially, I wanted my app to be similar to Apple Music’s UI. My big focus for this project was to create a customizable search function since other apps are so limiting and unforgiving. I was inspired by a lot of different search functions like from Discord and Twitter. Where there is an option n utilize advanced features but it is not required nor explicitly taught (for the latter application). But then after doing all the tests and personas, I decided to change it from the search function being flexible to the results page. Since the audience for this project are the elderly, I think it was a good idea to make the switch so that they can easily search by books, groups, lists, and more. Overall, I think my application would be a wonderful companion for readers of any demographics since I made sure there are the tasks, the steps to do those tasks, and the overall design are easy and simple for the user.
+      <p> This project held a lot of firsts for me. I learned about heuristics, different prototyping tools, and simply new ways to visualize the user and their needs (e.g. usability testings). All the steps of the project process made sense. Overall, I think that while this app is geared towards the elderly, I was able to make it a fun and interactive project. Since reading is a fun hobby, it should not be a hassle to enhance the reading experience.</p>
+<p> Initially, I wanted my app to be similar to Apple Music’s UI. My big focus for this project was to create a customizable search function since other apps are so limiting and unforgiving. I was inspired by a lot of different search functions like from Discord and Twitter. Where there is an option n utilize advanced features but it is not required nor explicitly taught (for the latter application). But then after doing all the tests and personas, I decided to change it from the search function being flexible to the results page. Since the audience for this project are the elderly, I think it was a good idea to make the switch so that they can easily search by books, groups, lists, and more. Overall, I think my application would be a wonderful companion for readers of any demographics since I made sure there are the tasks, the steps to do those tasks, and the overall design are easy and simple for the user.</p>
+
  </p>
 
     </div>
@@ -285,6 +286,11 @@ Initially, I wanted my app to be similar to Apple Music’s UI. My big focus for
       <img src="https://user-images.githubusercontent.com/82078120/120563238-f2d14100-c3bc-11eb-9345-1e8257ea3350.png" alt="favs1">
       <p>Hello! Hello! My name is Karen L. I am an Applied Linguistics major and double minoring in Cognitive Science and Asian Languages. I find the the relationship of culture and language so fasincating! And a great example of this relationship are the books we read!! </p>
     </div>
+  
+  
+  
+  
+  
     
     
   </div>
