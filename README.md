@@ -271,16 +271,26 @@ More info can be found <a href="https://github.com/karenland/DH110_Assign6">here
    <div class="card">
   <h2>General Updates </h2>
   <p>
-    
-    - bottom taskbar is not only icons but now they are coupled with text
-    - clicking a book cover from an update, enlarges the cover 
-    - there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading
-    - can view reviews by clicking on image // book covers are labeled if they have reviews
-    
-    
+    <ol>
+  <li>bottom taskbar is not only icons but now they are coupled with text</li>
+  <li>clicking a book cover from an update, enlarges the cover </li>
+  <li>there is a geotag feature that is only limited to book titles: an indirect way to show others what they are reading</li>
+      <li>can view reviews by clicking on image // book covers are labeled if they have reviews</li>
+</ol>
+
+   
   </p>
   
    </div> 
+
+  
+    </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
 
 
 
